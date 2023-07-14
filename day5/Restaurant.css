@@ -1,0 +1,22 @@
+.head{
+    position: fixed;
+}
+
+
+.card1{
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+.card2{
+    margin-left: 550px;
+    transform: translateY(-18.8rem);
+}
+.card3{
+    transform: translateY(-37.6rem);
+    margin-left: 1075px;
+}
+.card4{
+    transform: translateY(-35rem);
+    margin-left: 550px;
+}
